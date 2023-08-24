@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Pomim! 👨‍🚀
 
-Brazilian/Italian, 27 years old, single, male.
+Brazilian/Italian, 28 years old, single, male.
 Lawyer, undergoing a career change given my interests in programming and technology. I have been studying programming for the past 6 months and can code in Dart language at a junior level. I am also Studying C# language to improve my skill set and am focusing on becoming a Software Developer.
 Hardworking, driven, self-motivated, passionate.
 
